@@ -56,4 +56,4 @@ This Python project is a simple game that allows users to guess the names of cit
 
 ![Screenshot 1](screenshots/before_guessing.png)
 ![Screenshot 2](screenshots/guessing.png)
-![Screenshot 2](screenshots/after_guessing.png)
+![Screenshot 3](screenshots/after_guessing.png)
